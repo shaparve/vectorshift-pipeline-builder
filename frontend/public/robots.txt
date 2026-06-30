@@ -1,0 +1,3 @@
+# robots.txt for the VectorShift frontend
+User-agent: *
+Disallow:
